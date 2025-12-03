@@ -2,19 +2,6 @@
 - **欢迎来到全网最全面的币圈区块链资源集合，一个专为加密货币爱好者和新手量身定做的信息宝库。目标是方便小白入门，同时提供一个一站式的信息平台，汇集各类常用工具与相关信息，助大家轻松导航币圈的复杂世界。无论您是寻找中心化交易所（如欧易、芝麻开门、币安等）注册链接官网、最新的数据分析工具、巨鲸追踪、NFT市场动向，还是想深入了解DeFi、DAO、跨链技术和安全的加密钱包，亦或者想要关注社区重要的推特账号、电报群组，这里都有您需要的资源。
 同时，我们非常欢迎社区成员提出补充或修改建议。关注我们，开始您的加密货币投资之旅，探索无限可能。** 
 
-<!-- [电报群](https://t.me/+6X7HFG6RkJk0NTk1) -->
-**微信群：直接扫下边二维码进群**
-<p align="center">
-<img src="https://github.com/Tangent-Wei/crypto_info/blob/main/imgs/wechat_group_dec03.jpg" alt="微信" width="220" height="300">
-</p>  
-
-**qq群：982591086**
-<p align="center">
-<img src="https://github.com/Tangent-Wei/crypto_info/blob/main/imgs/qq_group.jpg" alt="qq群" width="220" height="300">
-</p>  
-
-
-
 
 ## 导航
 
@@ -39,8 +26,8 @@
 
 ## 中心化大所
   - 欧易、币安、芝麻这三个是中国大陆用户必备的，建议都注册一下，他们都会对新用户进行奖励，一般会送一些币，可以撸一波羊毛。提醒：假如不填推荐码，一旦注册完成就**不再**会有永久减免（也就是返佣，部分手续费会自动返回账号）的机会。
-1. **[欧易（免翻墙）](https://www.chouyi.pro/join/github123)（OKX，前Okex）**[备用链接（需翻墙）](https://www.okx.com/join/github123)
-    国内交易量第一。最适合大陆新用户注册的头部交易所。使用此邀请码：**github123** 可以**永久减免部分手续费**。**6个月未登录过的账户**，通过链接登录也可以获取返佣。安卓手机可以直接下载App，苹果手机需要海外ID：[欧易交易所注册流程](https://dear-vision-808.notion.site/b22c9793f8c74283993e8a0dc08ca320)。然后根据自己的需求可以在c2c使用微信/支付宝/银行卡等入金，或者让好友通过UID给你转币。国内用户首选欧易。
+1. **[欧易（免翻墙）](https://www.firgrouxywebb.com/join/2818197905)（OKX，前Okex）**[备用链接（需翻墙）](https://www.okx.com/join/2818197905)
+    国内交易量第一。最适合大陆新用户注册的头部交易所。使用此邀请码：**2818197905** 可以**永久减免部分手续费**。**6个月未登录过的账户**，通过链接登录也可以获取返佣。安卓手机可以直接下载App，苹果手机需要海外ID，然后根据自己的需求可以在c2c使用微信/支付宝/银行卡等入金，或者让好友通过UID给你转币。国内用户首选欧易。
     <p align="center">
     <img src="https://github.com/Tangent-Wei/crypto_info/blob/main/imgs/okx_discount.jpg" alt="返佣" width="310" >
     </p>  
@@ -51,39 +38,36 @@
    - 集成 DApp 探索器：可直接在钱包内访问 DeFi、NFT、游戏等应用。
    - 与欧易交易所互通：方便用户在交易所与链上间无缝转移资产。
     这里有一个很详细的教程：[欧易web3钱包使用教程](docs/欧易web3钱包使用教程.pdf) -->
-2. **[芝麻开门](https://www.gatesite.space/share/ABCDJJJJ)（Gate.io）**[备用链接（需要翻墙）](https://www.gate.io/signup/ABCDJJJJ?ref_type=103)
-    山寨币数量最多，适合埋伏新币。大部分币在上币安、欧易这两个大所之前都会上芝麻，诞生很多百倍千倍币，所以很多币圈老人会在芝麻埋伏好，一旦上了欧易币安就开始变现。注册好之后，记得领取**数字货币盲盒**。玩现货推荐用芝麻开门。使用此邀请码：**ABCDJJJJ** 可以**永久减免部分手续费**。
-3. **[币安（免翻墙）](https://accounts.marketwebb.ac/register?ref=25203322)**（Binance）[备用链接（需要翻墙）](https://accounts.binance.com/zh-CN/register?ref=25203322)
-    全球交易量第一。使用此邀请码：**25203322** 可以永久减免部分手续费。若注册遇到问题，可参考：[币安交易所新号注册及身份证KYC过审](https://dear-vision-808.notion.site/024d9025f9824f7789d036de2b81b723)
-4. **[Bitget](https://partner.dhxrcw.cn/bg/1E5FYW)** 
-    Bitget 是一家全球性的加密货币交易平台，成立于 2018 年，总部位于新加坡。它主要提供现货交易、合约交易（期货）、质押和收益等多种加密货币金融服务。Bitget 以其合约交易（尤其是 USDT 本位和币本位合约）和一键跟单（Copy Trading）功能而闻名，吸引了大量交易者，特别是合约交易用户。使用此邀请码：**1E5FYW** 可以永久减免部分手续费。
-5. **[火币](https://www.htx.com/invite/zh-cn/1f?invite_code=t5bw8223)**
-    曾是国内最大交易所，清退大陆用户后由孙宇晨接手，仍有很大关注度。
-6. **[抹茶](https://www.mexc.com/)**
+2. **[芝麻开门](https://www.gatenode.xyz/share/DJSQGGGG)（Gate.io）**[备用链接（需要翻墙）](https://www.gate.io/signup/DJSQGGGG?ref_type=103)
+    山寨币数量最多，适合埋伏新币。大部分币在上币安、欧易这两个大所之前都会上芝麻，诞生很多百倍千倍币，所以很多币圈老人会在芝麻埋伏好，一旦上了欧易币安就开始变现。注册好之后，记得领取**数字货币盲盒**。玩现货推荐用芝麻开门。使用此邀请码：**DJSQGGGG** 可以**永久减免部分手续费**。
+3. **[币安（免翻墙）](https://accounts.maxweb.cab/register?ref=DJSQ888)**（Binance）[备用链接（需要翻墙）](https://accounts.binance.com/zh-CN/register?ref=DJSQ888)
+    全球交易量第一。使用此邀请码：**DJSQ888** 可以永久减免部分手续费。
+4. **[Bitget](https://partner.hdmune.cn/bg/kmq6scwp)** 
+    Bitget 是一家全球性的加密货币交易平台，成立于 2018 年，总部位于新加坡。它主要提供现货交易、合约交易（期货）、质押和收益等多种加密货币金融服务。Bitget 以其合约交易（尤其是 USDT 本位和币本位合约）和一键跟单（Copy Trading）功能而闻名，吸引了大量交易者，特别是合约交易用户。使用此邀请码：**DJSQG** 可以永久减免部分手续费。
+5. **[火币](https://www.htx.com/invite/zh-cn/1f?invite_code=c5hud223)**
+    曾是国内最大交易所，清退大陆用户后由孙宇晨接手，现在仍有很大关注度。
     山寨币上新最快，但是退出大陆市场后，国内用户基本流失。
-7. **[Bybit](https://www.bybit.com/)**
+6. **[Bybit](https://www.bybitglobal.com/invite?ref=O7L6YA1)**
     香港和台湾地区用得多
 - 这些平台各自提供不同的服务和特点，从支持的币种、用户界面、交易费用到安全性等方面都有所不同，适合不同需求的用户选择。请注意，投资加密货币存在风险，包括市场波动和平台风险，投资前应充分了解并评估。
 - IOS下载交易所app需要APPLE海外ID（推荐台湾）申请步骤参考：[中国大陆申请 Apple 海外ID（以台湾地区为例）详细教程.md](./docs/中国大陆申请%20Apple%20海外ID（以台湾地区为例）详细教程.md)
 - C2C入金教程，以欧易为例参考：[欧易c2c微信支付宝银行卡入金详细步骤.md](./docs/欧易c2c微信支付宝银行卡入金详细步骤.md)
   
 ## VPN
-1. **[shadowsocks](https://secure.shadowsocks.au/aff.php?aff=29073)** 需付费，个人用买最低配置就可以了，大概20美金一年。支持多平台，网络稳定，看Youtube高清视频无压力。
+1. **[机场](https://gw-1.xn--ehqx7tcnnope.com/#/register?code=bnfTb6MU)** 需付费，个人用买最低配置就可以了，大概20美金一年。支持多平台，网络稳定，看Youtube高清视频无压力。
 
 ## 虚拟号码
-1. **[sms-activate](https://sms-activate.io/?ref=8252577)** SMS‑Activate 是一个专门出售或租赁虚拟手机号的平台，可以接收一次性短信验证码，常见用途包括注册社交账号、验证在线服务等它支持超过 180 个国家的虚拟号码（包括中国）。价格低，支持支付宝充值。
+1. **[https://sms-activate.io/?ref=14047726)** SMS‑Activate 是一个专门出售或租赁虚拟手机号的平台，可以接收一次性短信验证码，常见用途包括注册社交账号、验证在线服务等它支持超过 180 个国家的虚拟号码（包括中国）。价格低，支持支付宝充值。
 
 ## U卡/汇款出金
 - 对于币圈投资者来说，USDT（简称U）是非常熟悉的数字货币之一。U是全球首款稳定币，是一种将加密货币与美元挂钩的虚拟货币。什么是u卡？U卡用起来和普通“银行卡”差不多，主要就是往里面充U、直接在ATM上取现、进行线上消费，也能刷pos机，可以直接花U来安排衣食住行，例如加油，支付停车费，超市消费，买菜卖水果、药店买药，基本都丝滑无压力。
-1. **[dupay](https://www.dupay.one/web-app/register-h5?invitCode=T95ERM&lang=zh-cn)**
-   Dupay Master Visa 卡支持绑定支付宝、微信支付、美团外卖、拼多多、Paypal(国区、美区、港区)、天猫国际版等等。
 支持 ChatGPT Plus充值、Stripe 商户、google play 商店、youtube premium 、paypal 商户、美区苹果商店、和支持非 3DS 卡的电商网站。
 支持国内苹果官网直接绑卡购买 iPhone 和 Mac ，可能会打电话问询，直接说即可。
 支持 USDT 充值，然后使用 VISA/master 卡直接消费，免去 OTC 兑换风险.
 ChatGPT Plus/API 充值教程可以看一下这一个 **[知乎回答](https://www.zhihu.com/question/614491163/answer/1936893246023369264)**
 **官方发公告：受合规因素2025年9月开始部分卡段暂停使用。可用coinepay代替**
-2. **[coinepay](https://bpay.net/?code=QECZSS)**  跟dupay类似。Coinepay持有美國MSB金融牌照。
-3. **[BitUnion](https://app.bitunion.io/?channelCode=RekQ53Mvh0)**
+1. **[coinepay](https://bpay.net/?code=WHGXYG)**  跟dupay类似。Coinepay持有美國MSB金融牌照。
+2. **[BitUnion](https://app.bitunion.io/?channelCode=rwia5jAgKy)**
    Bitunion 是一个基于区块链的跨境支付与资产管理平台，支持 全球速汇 功能。用户可以通过绑定钱包和银行卡，实现数字资产快速兑换为法币并直接到账个人银行卡。平台采用持牌机构合规打款，流程安全合规，手续费低，到账速度快，非常适合有大额出金、跨境结算需求的用户。手续费是2.5%+5USDT，其中1%由conflux基金会补助，以CFX代币的形式返会钱包。官方称未来会取消单笔5USDT的固定费用，综合损耗只有1.5%。关键优势在于合规。详细教程可见：**[BitUnion USDT转CNY图文教程](https://zhuanlan.zhihu.com/p/1944493815034549905)**
 ## 币种资讯
 
