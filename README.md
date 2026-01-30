@@ -42,7 +42,7 @@
     山寨币数量最多，适合埋伏新币。大部分币在上币安、欧易这两个大所之前都会上芝麻，诞生很多百倍千倍币，所以很多币圈老人会在芝麻埋伏好，一旦上了欧易币安就开始变现。注册好之后，记得领取**数字货币盲盒**。玩现货推荐用芝麻开门。使用此邀请码：**DJSQGGGG** 可以**永久减免部分手续费**。
 3. **[币安（免翻墙）](https://accounts.bmwweb.academy/zh-CN/register?ref=DJSQ888)**（Binance）[备用链接（需要翻墙）](https://accounts.binance.com/zh-CN/register?ref=DJSQ888)
     全球交易量第一。使用此邀请码：**DJSQ888** 可以永久减免部分手续费。
-4. **[Bitget](https://partner.hdmune.cn/bg/kmq6scwp)** 
+4. **[Bitget](https://partner.hdmune.cn/bg/VTZS11)** 
     Bitget 是一家全球性的加密货币交易平台，成立于 2018 年，总部位于新加坡。它主要提供现货交易、合约交易（期货）、质押和收益等多种加密货币金融服务。Bitget 以其合约交易（尤其是 USDT 本位和币本位合约）和一键跟单（Copy Trading）功能而闻名，吸引了大量交易者，特别是合约交易用户。使用此邀请码：**DJSQG** 可以永久减免部分手续费。
 5. **[火币](https://www.htx.com/invite/zh-cn/1f?invite_code=c5hud223)**
     曾是国内最大交易所，清退大陆用户后由孙宇晨接手，现在仍有很大关注度。
