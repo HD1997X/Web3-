@@ -26,7 +26,7 @@
 
 ## 中心化大所
   - 欧易、币安、芝麻这三个是中国大陆用户必备的，建议都注册一下，他们都会对新用户进行奖励，一般会送一些币，可以撸一波羊毛。提醒：假如不填推荐码，一旦注册完成就**不再**会有永久减免（也就是返佣，部分手续费会自动返回账号）的机会。
-1. **[欧易（免翻墙）](https://www.firgrouxywebb.com/join/2818197905)（OKX，前Okex）**[备用链接（需翻墙）](https://www.okx.com/join/2818197905)
+1. **[欧易（免翻墙）](https://www.nocmjsdty.com/join/2818197905)（OKX，前Okex）**[备用链接（需翻墙）](https://www.okx.com/join/2818197905)
     国内交易量第一。最适合大陆新用户注册的头部交易所。使用此邀请码：**2818197905** 可以**永久减免部分手续费**。**6个月未登录过的账户**，通过链接登录也可以获取返佣。安卓手机可以直接下载App，苹果手机需要海外ID，然后根据自己的需求可以在c2c使用微信/支付宝/银行卡等入金，或者让好友通过UID给你转币。国内用户首选欧易。
     <p align="center">
     <img src="https://github.com/Tangent-Wei/crypto_info/blob/main/imgs/okx_discount.jpg" alt="返佣" width="310" >
@@ -40,7 +40,7 @@
     这里有一个很详细的教程：[欧易web3钱包使用教程](docs/欧易web3钱包使用教程.pdf) -->
 2. **[芝麻开门](https://www.gatenode.xyz/share/DJSQGGGG)（Gate.io）**[备用链接（需要翻墙）](https://www.gate.io/signup/DJSQGGGG?ref_type=103)
     山寨币数量最多，适合埋伏新币。大部分币在上币安、欧易这两个大所之前都会上芝麻，诞生很多百倍千倍币，所以很多币圈老人会在芝麻埋伏好，一旦上了欧易币安就开始变现。注册好之后，记得领取**数字货币盲盒**。玩现货推荐用芝麻开门。使用此邀请码：**DJSQGGGG** 可以**永久减免部分手续费**。
-3. **[币安（免翻墙）](https://accounts.maxweb.cab/register?ref=DJSQ888)**（Binance）[备用链接（需要翻墙）](https://accounts.binance.com/zh-CN/register?ref=DJSQ888)
+3. **[币安（免翻墙）](https://accounts.bmwweb.academy/zh-CN/register?ref=DJSQ888)**（Binance）[备用链接（需要翻墙）](https://accounts.binance.com/zh-CN/register?ref=DJSQ888)
     全球交易量第一。使用此邀请码：**DJSQ888** 可以永久减免部分手续费。
 4. **[Bitget](https://partner.hdmune.cn/bg/kmq6scwp)** 
     Bitget 是一家全球性的加密货币交易平台，成立于 2018 年，总部位于新加坡。它主要提供现货交易、合约交易（期货）、质押和收益等多种加密货币金融服务。Bitget 以其合约交易（尤其是 USDT 本位和币本位合约）和一键跟单（Copy Trading）功能而闻名，吸引了大量交易者，特别是合约交易用户。使用此邀请码：**DJSQG** 可以永久减免部分手续费。
